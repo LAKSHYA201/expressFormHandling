@@ -1,4 +1,4 @@
-baawe tarika to wahi haiga
-npm init
-node app.js
-localhost:3000
+baawe tarika to wahi haiga<br>
+npm init<br>
+node app.js<br>
+localhost:3000<br>
